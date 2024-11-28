@@ -13,7 +13,7 @@ namespace ConsoleApp2
             //string s="\"Hello\"";
             //string s = "One\ntwo\nthree";
             //string s = "\\One\\two\\three\\";
-            //string s = @"\\One\\two\\three\\";
+            string s = @"\\One\\two\\three\\";
             Console.WriteLine(s);
 
         }
